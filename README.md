@@ -1,0 +1,2 @@
+# Real-Time-Language-Translation-Using-Neural-Machine-Translation-NMT-Bridging-Language-Barriers
+Real-Time Language Translation Using NMT  A real-time multilingual translation system using the mT5-base model from Hugging Face. It supports English, Japanese, and Chinese, optimized with Beam Search for accuracy. Features GPU acceleration, BLEU/ROUGE evaluation, and future support for more languages &amp; API deployment.
